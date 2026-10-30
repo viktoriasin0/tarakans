@@ -1,5 +1,5 @@
 Название программы: Игра «Тараканьи бега» (Windows Forms).
-<img width="406" height="245" alt="image" src="https://github.com/user-attachments/assets/e9966c78-e45b-4ac3-a2dc-f00f549eb3b7" />
+- <img width="406" height="245" alt="image" src="https://github.com/user-attachments/assets/e9966c78-e45b-4ac3-a2dc-f00f549eb3b7" />
 
 Назначение: Программа представляет собой мини-игру для двух игроков, где побеждает тот таракан, который первым доберется до финиша.
 
